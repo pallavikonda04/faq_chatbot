@@ -1,7 +1,0 @@
-streamlit
-sentence-transformers
-scikit-learn
-numpy
-pandas
-torch
-tiktoken
